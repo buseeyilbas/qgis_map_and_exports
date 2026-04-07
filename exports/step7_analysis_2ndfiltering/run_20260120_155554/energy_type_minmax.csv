@@ -1,0 +1,11 @@
+energy_code,energy_label,min_power_kw,min_year,min_bundesland,min_file,min_index,max_power_kw,max_year,max_bundesland,max_file,max_index
+2493,Biogas - Biogas,30.9,2012,1402,EinheitenBiomasse.json,9385,99720.0,2004,1414,EinheitenBiomasse.json,9609
+2957,"Druckentspannung (BHKW, Mischform) - Pressure Relief (Waste Pressure, CHP)",50.0,2014,1403,EinheitenGeothermieGrubengasDruckentspannung.json,66,70.0,2015,1402,EinheitenGeothermieGrubengasDruckentspannung.json,68
+2958,Druckentspannung (kleinere Anlagen) - Pressure Relief (Small-scale Plants),32.0,1995,1402,EinheitenGeothermieGrubengasDruckentspannung.json,88,55.0,1993,1402,EinheitenGeothermieGrubengasDruckentspannung.json,89
+2406,Druckentspannung - Pressure Relief Energy,50.0,2019,1402,EinheitenGeothermieGrubengasDruckentspannung.json,61,5200.0,2002,1412,EinheitenGeothermieGrubengasDruckentspannung.json,25
+2405,Klärgas - Sewage Gas,50.0,2008,1402,EinheitenGeothermieGrubengasDruckentspannung.json,40,4400.0,1996,1405,EinheitenGeothermieGrubengasDruckentspannung.json,77
+2495,Photovoltaik - Photovoltaics,30.005,2006,1402,EinheitenSolar_17.json,46559,162262.2,2024,1413,EinheitenSolar_35.json,72525
+2496,Stromspeicher - Battery Energy Storage,30.16,2023,1403,EinheitenStromSpeicher_12.json,67113,22000.0,2018,1400,EinheitenStromSpeicher_2.json,37817
+2403,Tiefe Geothermie - Deep Geothermal Energy,550.0,2009,1402,EinheitenGeothermieGrubengasDruckentspannung.json,101,7000.0,2012,1403,EinheitenGeothermieGrubengasDruckentspannung.json,62
+2498,Wasserkraft - Hydropower,30.5,1958,1403,EinheitenWasser.json,4076,40000.0,2022,1403,EinheitenWasser.json,1412
+2497,Windenergie Onshore - Onshore Wind Energy,30.4,2016,1411,EinheitenWind.json,4035,8000.0,2017,1404,EinheitenWind.json,25048
